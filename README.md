@@ -7,7 +7,7 @@ Currently learning: HTML, CSS, Javascript, Node.js, React, Jest, Cypress, SQL, P
 
 ⚡ Fun facts ⚡ 
 
-* Interesting fact #1: I perform circus/acrobatics in my spare time.
+* Interesting fact #1: I perform circus/acrobatics in my spare time. :performing_arts:
 * Interesting fact #2: I used to live on a canal boat for over 5 years.
 * Intesting fact #3: I lost out on being the Milky bar Kid 2 years in a row :-(
 
