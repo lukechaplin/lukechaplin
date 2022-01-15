@@ -14,6 +14,6 @@ Currently learning: HTML, CSS, Javascript, Node.js, React, Jest, Cypress, SQL, P
 Find me @:
 
 * [CV](https://https://docs.google.com/document/d/1FDnfmAFFaNRR68BphJCNnjr93XBeFRgp)
-* [Twitter](https://https://twitter.com/luke_chap)
-* [LinkedIn](https://https://uk.linkedin.com/in/luke-chaplin-70a521b0?trk=people-guest_people_search-card)
-* [Instagram](https://https://www.instagram.com/lukechap47/)
+* [Twitter](https://twitter.com/luke_chap)
+* [LinkedIn](https://www.linkedin.com/in/luke-chaplin-70a521b0)
+* * [Instagram](https://https://www.instagram.com/lukechap47/)
