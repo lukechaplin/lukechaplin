@@ -17,3 +17,6 @@ Find me @:
 * [Twitter](https://twitter.com/luke_chap)
 * [LinkedIn](https://www.linkedin.com/in/luke-chaplin-70a521b0)
 * [Instagram](https://www.instagram.com/lukechap47/)
+
+
+[![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukechaplin)](https://github.com/anuraghazra/github-readme-stats)
