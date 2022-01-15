@@ -1,5 +1,5 @@
 
-#Hi there 👋 I'm Luke Chaplin
+# Hi there 👋 I'm Luke Chaplin
 
 I am a former pharmaceutical professional who is re-training to be a software developer.
 
@@ -13,7 +13,7 @@ Currently learning: HTML, CSS, Javascript, Node.js, React, Jest, Cypress, SQL, P
 
 Find me @:
 
-*[CV](https://https://docs.google.com/document/d/1FDnfmAFFaNRR68BphJCNnjr93XBeFRgp)
-*[Twitter](https://https://twitter.com/luke_chap)
-*[LinkedIn](https://https://uk.linkedin.com/in/luke-chaplin-70a521b0?trk=people-guest_people_search-card)
-*[Instagram](https://https://www.instagram.com/lukechap47/)
+* [CV](https://https://docs.google.com/document/d/1FDnfmAFFaNRR68BphJCNnjr93XBeFRgp)
+* [Twitter](https://https://twitter.com/luke_chap)
+* [LinkedIn](https://https://uk.linkedin.com/in/luke-chaplin-70a521b0?trk=people-guest_people_search-card)
+* [Instagram](https://https://www.instagram.com/lukechap47/)
