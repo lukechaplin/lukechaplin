@@ -7,13 +7,13 @@ Currently learning: HTML, CSS, Javascript, Node.js, React, Jest, Cypress, SQL, P
 
 ⚡ Fun facts ⚡ 
 
-Interesting fact #1: I perform circus/acrobatics in my spare time.
-Interesting fact #2: I used to live on a canal boat for over 5 years.
-Intesting fact #3: I lost out on being the Milky bar Kid 2 years in a row :-(
+*Interesting fact #1: I perform circus/acrobatics in my spare time.
+*Interesting fact #2: I used to live on a canal boat for over 5 years.
+*Intesting fact #3: I lost out on being the Milky bar Kid 2 years in a row :-(
 
 Find me @:
 
-[CV](https://https://docs.google.com/document/d/1FDnfmAFFaNRR68BphJCNnjr93XBeFRgp)
-[Twitter](https://https://twitter.com/luke_chap)
-[LinkedIn](https://https://uk.linkedin.com/in/luke-chaplin-70a521b0?trk=people-guest_people_search-card)
-[Instagram](https://https://www.instagram.com/lukechap47/)
+*[CV](https://https://docs.google.com/document/d/1FDnfmAFFaNRR68BphJCNnjr93XBeFRgp)
+*[Twitter](https://https://twitter.com/luke_chap)
+*[LinkedIn](https://https://uk.linkedin.com/in/luke-chaplin-70a521b0?trk=people-guest_people_search-card)
+*[Instagram](https://https://www.instagram.com/lukechap47/)
