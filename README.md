@@ -19,4 +19,4 @@ Find me @:
 * [Instagram](https://www.instagram.com/lukechap47/)
 
 
-[![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukechaplin)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukechaplin)](https://github.com/anuraghazra/github-readme-stats)
