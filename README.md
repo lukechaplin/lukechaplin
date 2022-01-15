@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**lukechaplin/lukechaplin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Hi there 👋 I'm Luke Chaplin
 
-Here are some ideas to get you started:
+I am a former pharmaceutical professional who is re-training to be a software developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning: HTML, CSS, Javascript, Node.js, React, Jest, Cypress, SQL, Postgres, REST, UX/UI, Agile
+
+⚡ Fun facts ⚡ 
+
+Interesting fact #1: I perform circus/acrobatics in my spare time.
+Interesting fact #2: I used to live on a canal boat for over 5 years.
+Intesting fact #3: I lost out on being the Milky bar Kid 2 years in a row :-(
+
+Find me @:
+
+[CV](https://https://docs.google.com/document/d/1FDnfmAFFaNRR68BphJCNnjr93XBeFRgp)
+[Twitter](https://https://twitter.com/luke_chap)
+[LinkedIn](https://https://uk.linkedin.com/in/luke-chaplin-70a521b0?trk=people-guest_people_search-card)
+[Instagram](https://https://www.instagram.com/lukechap47/)
