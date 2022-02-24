@@ -1,5 +1,5 @@
 
-# Hi there ![](https://tenor.com/view/hi-gif-23520343) I'm Luke Chaplin
+# Hi there <img src=https://tenor.com/view/hi-gif-23520343 /> I'm Luke Chaplin
 
 I am a former pharmaceutical professional who is re-training to be a software developer.
 
