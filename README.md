@@ -1,7 +1,7 @@
 
 # Hi there I'm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Luke Chaplin
 
-I am a former pharmaceutical professional who is re-training to be a software developer.
+I am a former pharmaceutical professional who is re-training to be a full stack software developer.
 
 ## 👨🏻‍💻 Tech Stack
 
