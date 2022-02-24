@@ -3,7 +3,7 @@
 
 I am a former pharmaceutical professional who is re-training to be a full stack software developer.
 
-## 👨🏻‍💻 Tech Stack
+## :desktop_computer: Tech Stack
 
 ### Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
