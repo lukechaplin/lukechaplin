@@ -1,5 +1,5 @@
 
-# Hi there I'm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Chaplin
+# Hi there I'm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Luke Chaplin
 
 I am a former pharmaceutical professional who is re-training to be a software developer.
 
@@ -33,7 +33,7 @@ I am a former pharmaceutical professional who is re-training to be a software de
 ### Hosting
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel])(https://img.shields.io/badge/Vercel-black?logo=linkedin&logoColor=white&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/ Vercel-black?logo=vercel&logoColor=white&stule=for-the-badge)
 
 ### Testing
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
