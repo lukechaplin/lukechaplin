@@ -61,4 +61,6 @@ Find me @:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lukechaplin)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukechaplin)]
+
 ![Profile views](https://gpvc.arturio.dev/lukechaplin)
