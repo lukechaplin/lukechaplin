@@ -59,7 +59,7 @@ Find me @:
 
 ![Profile views](https://gpvc.arturio.dev/lukechaplin)
 
-![](https://github-readme-stats.vercel.app/api?username=lukechaplin&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=lukechaplin&theme=cobalt&show_icons=true&count_private=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lukechaplin)
 
