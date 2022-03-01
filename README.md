@@ -57,10 +57,12 @@ Find me @:
 
 ## My Github Stats 📊
 
+![Profile views](https://gpvc.arturio.dev/lukechaplin)
+
 ![](https://github-readme-stats.vercel.app/api?username=lukechaplin&show_icons=true&count_private=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lukechaplin)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukechaplin)
 
-![Profile views](https://gpvc.arturio.dev/lukechaplin)
+
