@@ -63,6 +63,8 @@ Find me @:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lukechaplin&theme=cobalt)
 
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lukechaplin&theme=cobalt)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukechaplin&theme=cobalt)
 
 
