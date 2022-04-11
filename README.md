@@ -50,7 +50,7 @@ I am a former pharmaceutical professional who has retrained and I am now a full 
 Find me @:
 
 * [Website](https://lukeskycoder.com/)
-* [CV](https://drive.google.com/file/d/1nwKcn5RcvYuVTl9z1MsMkzXCiyU91Lz1/view)
+* [CV](https://drive.google.com/file/d/1KRGU9bz4RHqP03Z_n6lw55RR_hfnMa1q/view?usp=sharing)
 * [Twitter](https://twitter.com/luke_chap)
 * [LinkedIn](https://www.linkedin.com/in/luke-chaplin-70a521b0)
 * [Instagram](https://www.instagram.com/lukechap47/)
