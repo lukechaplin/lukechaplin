@@ -30,6 +30,7 @@ I am a former pharmaceutical professional who has retrained and I am now a full 
 ### Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongo&logoColor=white)
 
 
 ### Hosting
