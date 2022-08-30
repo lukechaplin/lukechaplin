@@ -41,7 +41,7 @@ I am a former pharmaceutical professional who has retrained and I am now a full 
 ### Testing
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/testing_library?style=for-the-badge&logo=testing_library&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library?style=for-the-badge&logo=Testing_Library&logoColor=white)
 
 ⚡ Fun facts ⚡ 
 
