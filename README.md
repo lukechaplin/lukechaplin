@@ -63,8 +63,8 @@ Find me @:
 
 ![](https://github-readme-stats.vercel.app/api?username=lukechaplin&theme=cobalt&show_icons=true&count_private=true)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lukechaplin&theme=cobalt&langs_count=8)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lukechaplin&theme=cobalt)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukechaplin&theme=cobalt&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukechaplin&theme=cobalt&layout=demo&langs_count=8)
 
 
