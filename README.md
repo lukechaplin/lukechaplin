@@ -61,10 +61,10 @@ Find me @:
 
 ![Profile views](https://gpvc.arturio.dev/lukechaplin)
 
-![Commit History](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=lukechaplin&theme=tokyonight&show_icons=true&count_private=true&include_orgs=true)
+![Commit History](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=lukechaplin&include_orgs=true&theme=tokyonight&show_icons=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=lukechaplin&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=lukechaplin&theme=tokyonight&langs_count=8&count_private=true&include_orgs=true)
+![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=lukechaplin&include_orgs=true&theme=tokyonight&langs_count=8&count_private=true)
 
 
