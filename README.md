@@ -61,7 +61,7 @@ Find me @:
 
 ![Profile views](https://gpvc.arturio.dev/lukechaplin)
 
-![Commit History](https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api?username=lukechaplin&theme=cobalt&show_icons=true&count_private=true&include_orgs=true)
+![Commit History](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=lukechaplin&theme=cobalt&show_icons=true&count_private=true&include_orgs=true)
 
 ![GitHub streak stats](https://github-readme-stats-git-masterorgs-github-readme-streak-stats.herokuapp.com/?user=lukechaplin&theme=cobalt&count_private=true&include_orgs=true)
 
