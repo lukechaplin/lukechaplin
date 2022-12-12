@@ -67,17 +67,11 @@ Find me @:
 
 ![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=lukechaplin&include_orgs=true&theme=tokyonight&langs_count=8&count_private=true)
 
-<a>
+<a href="">
   <img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=lukechaplin&include_orgs=true&theme=tokyonight&show_icons=true&count_private=true" />
 </a>
-<a>
+<a href="">
   <img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=lukechaplin&include_orgs=true&theme=tokyonight&langs_count=8&count_private=true" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
