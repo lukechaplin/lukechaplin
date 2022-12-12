@@ -61,10 +61,10 @@ Find me @:
 
 ![Profile views](https://gpvc.arturio.dev/lukechaplin)
 
-![](https://github-readme-stats.vercel.app/api?username=lukechaplin&theme=cobalt&show_icons=true&count_private=true)
+![Commit History](https://github-readme-stats.vercel.app/api?username=lukechaplin&theme=cobalt&show_icons=true&count_private=true&include_orgs=true)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lukechaplin&theme=cobalt)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lukechaplin&theme=cobalt&count_private=true&include_orgs=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukechaplin&theme=cobalt&langs_count=8&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukechaplin&theme=cobalt&langs_count=8&count_private=true&include_orgs=true)
 
 
