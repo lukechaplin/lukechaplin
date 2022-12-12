@@ -63,7 +63,7 @@ Find me @:
 
 ![Commit History](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=lukechaplin&theme=tokyonight&show_icons=true&count_private=true&include_orgs=true)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lukechaplin&theme=tokyonight&count_private=true&include_orgs=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lukechaplin&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=lukechaplin&theme=tokyonight&langs_count=8&count_private=true&include_orgs=true)
 
