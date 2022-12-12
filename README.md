@@ -63,8 +63,8 @@ Find me @:
 
 ![Commit History](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=lukechaplin&theme=cobalt&show_icons=true&count_private=true&include_orgs=true)
 
-![GitHub streak stats](https://github-readme-stats-git-masterorgs-github-readme-streak-stats.herokuapp.com/?user=lukechaplin&theme=cobalt&count_private=true&include_orgs=true)
+![GitHub streak stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/?user=lukechaplin&theme=cobalt&count_private=true&include_orgs=true)
 
-![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api/top-langs/?username=lukechaplin&theme=cobalt&langs_count=8&count_private=true&include_orgs=true)
+![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=lukechaplin&theme=cobalt&langs_count=8&count_private=true&include_orgs=true)
 
 
